@@ -1,6 +1,6 @@
 def function():
     while True:
         print("Hejhej")
-        
+
 def newFunction(i):
-	return i-1
+	return i+1
