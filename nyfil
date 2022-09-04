@@ -1,1 +1,3 @@
-1234
+def function():
+    while True:
+        print("Hejhej")
